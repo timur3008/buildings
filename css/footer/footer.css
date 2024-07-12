@@ -1,0 +1,41 @@
+.footer {
+    background: #808080; 
+}
+.footer__container {
+    width: 1236px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer__logo {
+    margin-top: 32px;
+    margin-bottom: 18px;
+}
+.footer__container_soc_media {
+    display: flex;
+    column-gap: 23px;
+    margin-bottom: 23px;
+}
+.instagram__svg {
+    cursor: pointer;
+}
+.facebook__svg {
+    cursor: pointer;
+}
+.footer__container_prove_text {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
